@@ -63,7 +63,7 @@ This application was developed as a coursework project for:
 ## Project Structure (Simplified)
 
 /data - Stored data (users, projects, votes)
-/lib - Authentication, validation, helpers
+/lib - Authentication, validation, helper
 /api - AJAX endpoints (e.g. voting)
 /index.php - Homepage & project listing
 /project.php - Project detail page
