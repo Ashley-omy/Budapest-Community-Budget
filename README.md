@@ -63,15 +63,25 @@ This application was developed as a coursework project for:
 ## Project Structure (Simplified)
 
 /data - Stored data (users, projects, votes)
+
 /lib - Authentication, validation, helper
+
 /api - AJAX endpoints (e.g. voting)
+
 /index.php - Homepage & project listing
+
 /project.php - Project detail page
+
 /projects-own.php
+
 /projects-admin.php
+
 /statistics.php
+
 /login.php
+
 /register.php
+
 /style.css
 
 ---
@@ -81,15 +91,19 @@ This application was developed as a coursework project for:
 This project is intended to be run **locally**.
 
 1. Clone the repository:
+
   git clone <repository-url>
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+
   cd <project-folder>
 
 2. Start a local PHP server:
+
   php -S localhost:8000
 
-3. Open your browser and visit:
+4. Open your browser and visit:
+
   http://localhost:8000
 
 
@@ -98,5 +112,7 @@ This project is intended to be run **locally**.
 ## Notes
 
 This project focuses on functionality, correctness, and usability rather than database integration.
+
 All validation and access control are handled carefully to ensure stable operation.
+
 The project demonstrates core web programming concepts using PHP and JavaScript.
