@@ -90,21 +90,21 @@ This application was developed as a coursework project for:
 
 This project is intended to be run **locally**.
 
-1. Clone the repository:
+1. Clone the repository
 
-  git clone <repository-url>
+   git clone <repository-url>
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 
-  cd <project-folder>
+    cd <project-folder>
 
-2. Start a local PHP server:
+3. Start a local PHP server:
 
-  php -S localhost:8000
+    php -S localhost:8000
 
 4. Open your browser and visit:
 
-  http://localhost:8000
+    http://localhost:8000
 
 
 ⚠️ A PHP environment is required (PHP 8.x recommended).
