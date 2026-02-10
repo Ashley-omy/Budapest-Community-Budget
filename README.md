@@ -10,11 +10,6 @@ Each user can cast **up to 3 votes per category**, and voting is open for **two 
 Administrators manage the workflow by approving, rejecting, or sending projects back for rework with comments.  
 The system is designed to be user-friendly, robust, and visually clear.
 
-This application was developed as a coursework project for:
-
-> **Web Programming**  
-> **Course code: IP-18fWPEG**
-
 ---
 
 ## Main Features
@@ -116,3 +111,9 @@ This project focuses on functionality, correctness, and usability rather than da
 All validation and access control are handled carefully to ensure stable operation.
 
 The project demonstrates core web programming concepts using PHP and JavaScript.
+
+This application was developed as a coursework project for:
+
+> **Web Programming**  
+> **Course code: IP-18fWPEG**
+
