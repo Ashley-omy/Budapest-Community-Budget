@@ -1,5 +1,10 @@
 # Budapest Community Budget – PHP Web Application
 
+## 🚀 Live Demo
+
+Deployed on Render:
+👉 https://YOUR-APP.onrender.com
+
 ## Overview
 
 This project is a **community project submission and voting website** inspired by the Budapest Community Budget initiative.
@@ -81,9 +86,7 @@ The system is designed to be user-friendly, robust, and visually clear.
 
 ---
 
-## How to Run the Project
-
-This project is intended to be run **locally**.
+## How to Run the Project in Local Environment
 
 1. Clone the repository
 
