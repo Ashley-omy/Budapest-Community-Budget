@@ -1,9 +1,10 @@
-﻿# Budapest Community Budget 窶・PHP Web Application
+﻿# Budapest Community Budget - PHP Web Application
 
-## 噫 Live Demo
+## Live Demo
 
 Deployed on Render:
-痩 [https://budapest-community-budget-vrae.onrender.com/](https://budapest-community-budget-vrae.onrender.com/)
+
+- [https://budapest-community-budget-vrae.onrender.com/](https://budapest-community-budget-vrae.onrender.com/)
 
 ## Overview
 
@@ -19,7 +20,7 @@ The system is designed to be user-friendly, robust, and visually clear.
 
 ## Main Features
 
-### 側 User Features
+### User Features
 
 - User registration, login, and logout
 - Secure authentication using hashed passwords
@@ -31,14 +32,14 @@ The system is designed to be user-friendly, robust, and visually clear.
   - Voting allowed for **two weeks after publication**
 - Withdraw votes within the voting period
 
-### 屏 Admin Features
+### Admin Features
 
 - Review submitted projects
 - Approve, reject, or send projects back for rework with comments
 - View all pending projects grouped by category
 - Access statistics and insights
 
-### 投 Statistics & Visualization
+### Statistics & Visualization
 
 - Overall top-voted project
 - Top 3 projects per category
