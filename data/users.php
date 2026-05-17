@@ -13,7 +13,7 @@ return array (
     'id' => 2,
     'username' => 'user1',
     'email' => 'test@outlook.jp',
-    'password' => '$2y$12$ZtiBRmnd8deLWcIQ9ISTA.FRp6IVC1cbCIFUHu/OEJrbDHSgZphTO',
+    'password' => '$2y$12$hK44SE6dNaLrMYw2CVjjz.1pHsZel6Ctue8UhvmMTX4VbzcaD5EUW',
     'is_admin' => false,
   ),
   3 => 
@@ -21,7 +21,7 @@ return array (
     'id' => 3,
     'username' => 'user2',
     'email' => 'test@outlook.jp',
-    'password' => '$2y$12$WUNoqgfbUqbCMXUBBrFGP.MoFje2cG7J2zDB5TmtSU/lPC1.aO7lq',
+    'password' => '$2y$12$hK44SE6dNaLrMYw2CVjjz.1pHsZel6Ctue8UhvmMTX4VbzcaD5EUW',
     'is_admin' => false,
   ),
   4 => 
@@ -29,7 +29,7 @@ return array (
     'id' => 4,
     'username' => 'user3',
     'email' => 'test3@outlook.jp',
-    'password' => '$2y$12$0t9dMdB1gan17z1wIAjx2O2at9JCOXj9izcdRkS/sU5QalkPKsgKa',
+    'password' => '$2y$12$hK44SE6dNaLrMYw2CVjjz.1pHsZel6Ctue8UhvmMTX4VbzcaD5EUW',
     'is_admin' => false,
   ),
 );

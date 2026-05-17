@@ -3,13 +3,22 @@ require_once __DIR__ . '/../data/config.php';
 
 function can_vote(array $project): bool
 {
-    if ($project['status'] !== 1) {
+    if ((int) ($project['status'] ?? -1) !== 1) {
         return false;
     }
-    if (empty($project['approved'])) {
+
+    // Backward compatibility: older seed data may not have "approved" timestamp.
+    $start = $project['approved'] ?? ($project['submitted'] ?? null);
+    if (empty($start)) {
         return false;
     }
-    return (time() - strtotime($project['approved'])) <= VOTING_PERIOD;
+
+    $startTs = strtotime($start);
+    if ($startTs === false) {
+        return false;
+    }
+
+    return (time() - $startTs) <= VOTING_PERIOD;
 }
 
 /**
