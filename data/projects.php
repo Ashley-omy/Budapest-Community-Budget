@@ -20,7 +20,7 @@ This is a test project of PHP homework assignment.',
     'history' => 
     array (
     ),
-    'approved' => '2026-01-10 15:00',
+    'approved' => '2026-05-08 15:00',
   ),
   2 => 
   array (
@@ -42,7 +42,7 @@ This is a test project of PHP homework assignment.',
     'history' => 
     array (
     ),
-    'approved' => '2026-01-10 16:10',
+    'approved' => '2026-05-12 16:10',
   ),
   3 => 
   array (
@@ -64,7 +64,7 @@ This is a test project of PHP homework assignment.',
     'history' => 
     array (
     ),
-    'approved' => '2026-01-10 16:32',
+    'approved' => '2026-05-15 16:32',
   ),
   4 => 
   array (
@@ -242,5 +242,71 @@ This is a test project of PHP homework assignment.',
     'history' => 
     array (
     ),
+  ),
+  10 => 
+  array (
+    'id' => 10,
+    'status' => 1,
+    'title' => 'Riverside Cycling Lane Refresh',
+    'description' => 'This project refreshes the local cycling lane near the riverside.
+It includes repainting lane markings, improving signage, and adding safety reflectors.
+This is a test project of PHP homework assignment.',
+    'category' => 2,
+    'postal_code' => 1138,
+    'image' => 'https://picsum.photos/id/1043/600/400',
+    'owner' => 3,
+    'submitted' => '2026-05-09 09:21:00',
+    'votes' => 2,
+    'rework_comments' => 
+    array (
+    ),
+    'history' => 
+    array (
+    ),
+    'approved' => '2026-05-09 10:05',
+  ),
+  11 => 
+  array (
+    'id' => 11,
+    'status' => 1,
+    'title' => 'Public Drinking Fountain Upgrade',
+    'description' => 'This project upgrades public drinking fountains in a busy square.
+It focuses on water-saving nozzles, better accessibility, and regular maintenance points.
+This is a test project of PHP homework assignment.',
+    'category' => 3,
+    'postal_code' => 1117,
+    'image' => 'https://picsum.photos/id/1067/600/400',
+    'owner' => 4,
+    'submitted' => '2026-05-13 11:44:30',
+    'votes' => 1,
+    'rework_comments' => 
+    array (
+    ),
+    'history' => 
+    array (
+    ),
+    'approved' => '2026-05-13 12:10',
+  ),
+  12 => 
+  array (
+    'id' => 12,
+    'status' => 1,
+    'title' => 'Pocket Park Native Flower Beds',
+    'description' => 'This project adds native flower beds to a small pocket park.
+It supports pollinators, improves biodiversity, and creates a more welcoming green area.
+This is a test project of PHP homework assignment.',
+    'category' => 4,
+    'postal_code' => 1024,
+    'image' => 'https://picsum.photos/id/1020/600/400',
+    'owner' => 2,
+    'submitted' => '2026-05-16 08:36:12',
+    'votes' => 0,
+    'rework_comments' => 
+    array (
+    ),
+    'history' => 
+    array (
+    ),
+    'approved' => '2026-05-16 09:00',
   ),
 );

@@ -3,7 +3,7 @@
 ## 🚀 Live Demo
 
 Deployed on Render:
-👉 [https://budapest-community-budget.onrender.com](https://budapest-community-budget.onrender.com)
+👉 [https://budapest-community-budget-vrae.onrender.com/](https://budapest-community-budget-vrae.onrender.com/)
 
 ## Overview
 
@@ -20,6 +20,7 @@ The system is designed to be user-friendly, robust, and visually clear.
 ## Main Features
 
 ### 👤 User Features
+
 - User registration, login, and logout
 - Secure authentication using hashed passwords
 - Submit new project proposals
@@ -31,12 +32,14 @@ The system is designed to be user-friendly, robust, and visually clear.
 - Withdraw votes within the voting period
 
 ### 🛠 Admin Features
+
 - Review submitted projects
 - Approve, reject, or send projects back for rework with comments
 - View all pending projects grouped by category
 - Access statistics and insights
 
 ### 📊 Statistics & Visualization
+
 - Overall top-voted project
 - Top 3 projects per category
 - Number of projects grouped by **category and status**
@@ -94,16 +97,15 @@ The system is designed to be user-friendly, robust, and visually clear.
 
 2. Navigate to the project directory:
 
-    cd <project-folder>
+   cd <project-folder>
 
 3. Start a local PHP server:
 
-    php -S localhost:8000
+   php -S localhost:8000
 
 4. Open your browser and visit:
 
-    http://localhost:8000
-
+   http://localhost:8000
 
 ⚠️ A PHP environment is required (PHP 8.x recommended).
 
@@ -119,4 +121,3 @@ This application was developed as a coursework project for:
 
 > **Web Programming**  
 > **Course code: IP-18fWPEG**
-
